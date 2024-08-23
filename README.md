@@ -1,0 +1,2 @@
+# gofastcms
+Super Fast CMS
